@@ -1,0 +1,6 @@
+scipy
+imutils
+cmake
+dlib
+opencv-python
+playsound
